@@ -1,6 +1,8 @@
 # examen1
 # Examen práctico - 1ª Evaluación - 21/11/2023
 
+![Texto Alternativo]([URL_de_la_Imagen](https://www.enriquedans.com/2018/06/microsoft-adquiere-github-de-odiar-el-codigo-abierto-a-comprometerse-con-su-desarrollo.html))
+
 ### Ejercicio 4: Características de seguridad de GitHub
 
 GitHub ofrece diversas características de seguridad para mantener el código y secretos seguros en repositorios y organizaciones. Estas características varían según el tipo de usuario y plan. A continuación, se resumen las principales características:
